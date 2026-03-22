@@ -1,4 +1,4 @@
-# IBMS - Inventory Billing Management System
+# IMBS - Inventory Management and Billing System
 
 A full-stack jewelry inventory and billing management system built with React and Node.js.
 
@@ -24,7 +24,7 @@ A full-stack jewelry inventory and billing management system built with React an
 ### Backend
 - Node.js
 - Express.js
-- MySQL (updated from PostgreSQL)
+- MySQL (updated from MongoDB)
 - Socket.IO
 - Sequelize ORM
 - JWT (jsonwebtoken)
@@ -100,7 +100,7 @@ npm start
 
 ### Prerequisites
 - Node.js (v14 or higher)
-- PostgreSQL database
+- MySQL database
 
 ### Backend Setup
 
