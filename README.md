@@ -10,7 +10,7 @@ A full-stack jewelry inventory and billing management system built with React an
 - **Product Management** - Track jewelry inventory with images, categories, and stock levels
 - **Designer Management** - Manage designer information and their products
 - **Real-time Notifications** - Live stock alerts and inventory monitoring via WebSocket
-- **Dashboard** - Comprehensive overview of sales, inventory, and activities
+- **Dashboard** - Comprehensive overview of sales, inventory, and activities 
 
 ## Tech Stack
 
